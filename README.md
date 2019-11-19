@@ -2,9 +2,7 @@
 
 ## Materials Project Workshop
 
-Assets for the Materials Project workshop.
-
-*This repository is under development for our August 2019 workshop. There may be changes up until the day(s) of the workshop. Click [here](https://github.com/materialsproject/workshop/releases) for a snapshot of the 2018 workshop assets.*
+Assets for the Materials Project lectures taught in the Fall 2019 semester of MSE 215.
 
 ## Tests
 
