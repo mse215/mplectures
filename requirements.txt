@@ -1,0 +1,3 @@
+git+git:https://github.com/materialsproject/crystaltoolkit.git#egg=crystal_toolkit
+pymatgen
+jupyter
