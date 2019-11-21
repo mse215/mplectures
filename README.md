@@ -1,8 +1,30 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://gke.mybinder.org/v2/gh/materialsproject/workshop/1.1.1)
-
-## Materials Project Workshop
+## Materials Project Lectures
 
 Assets for the Materials Project lectures taught in the Fall 2019 semester of MSE 215.
+
+
+1. Go to: 
+github.com/mse215/mplectures
+
+2. Click “Clone or Download” (green) 
+
+3. Copy the url that appears. 
+`>> git clone <paste_url> `
+
+4. Create Conda Env
+`>> conda create -n mse215 python=3`
+
+5. Activate Env
+`>> conda activate mse215`
+(Error? try `source activate mse215`) 
+
+6. Enter mplectures directory
+`>> cd mplectures`
+
+7. Install dependencies
+`>> pip install -r requirements.txt`
+
+Done!
 
 ## Tests
 
